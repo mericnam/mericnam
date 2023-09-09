@@ -2,11 +2,8 @@
 <hr>  
 
 <div style="text-align: center;">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=700&size=30&pause=1000&center=true&vCenter=true&width=600&height=30&lines=electrical+%26+electronics+engineer;web+developer;game+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=700&size=30&pause=1000&center=true&vCenter=true&width=900&height=30&lines=electrical+%26+electronics+engineer;web+developer;game+developer" alt="Typing SVG" /></a>
 </div>
-
-
-
 
 
 <h3 align="center">I enjoy software development. </h3>
