@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meric</h1>
+<h1 align="center">Hi, I'm Meric</h1>
 <hr>  
 
 <div style="text-align: center;">
